@@ -1,7 +1,7 @@
 # ConstructorObject
-# JavaScript Object and Array Manipulation Project
+# JavaScript Object and Array Manipulation task
 
-This project demonstrates various JavaScript skills, including creating constructor functions, defining methods, and working with objects and arrays. The tasks focus on creating and manipulating car objects, extracting values from person objects, and converting objects to arrays.
+This task demonstrates various JavaScript skills, including creating constructor functions, defining methods, and working with objects and arrays. The tasks focus on creating and manipulating car objects, extracting values from person objects, and converting objects to arrays.
 
 ---
 
