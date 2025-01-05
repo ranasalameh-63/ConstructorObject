@@ -11,6 +11,6 @@ This task demonstrates various JavaScript skills, including creating constructor
 Create a `Car` constructor function that initializes car objects with `brand`, `model`, and `year` properties. Each car object will have a method `getDetails` to display the car's details in a specific format.
 
 ### Implementation
-```javascript
+javascript
 
 
